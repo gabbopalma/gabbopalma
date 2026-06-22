@@ -18,7 +18,7 @@ I build mobile apps that bring geospatial data to life.
 
 - 🛰️ **Mobile Developer @ [EBWorld](https://www.ebw.it/)** — an offline-first field-service app for telco/utility, where maps, huge datasets and performance aren't optional.
 - 🗺️ **Lead maintainer of [`maplibre_gl`](https://pub.dev/packages/maplibre_gl)** — the Flutter binding for MapLibre: fast vector & raster maps, full styling control, and no vendor lock-in.
-- 🎤 **Technical speaker & community enthusiast** — I enjoy turning complex topics into clear, practical takeaways (GDG / Flutter circuit).
+- 🎤 **Technical speaker** — I enjoy turning complex topics into clear, practical takeaways (GDG / Flutter circuit).
 - 🌍 22 — coding since I was a kid, driven by curiosity and a love for maps and new places.
 
 ---
