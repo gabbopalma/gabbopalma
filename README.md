@@ -4,9 +4,7 @@
 
 **Mobile Developer** · MapLibre Flutter maintainer
 
-`📍 41.12°N, 16.87°E — Bari, Italy 🇮🇹`
-
-🌐 **[gabbopalma.github.io](https://gabbopalma.github.io/?utm_source=github)**
+`📍 41.12°N, 16.87°E — Bari, Italy 🇮🇹` · [`🌐 gabbopalma.github.io`](https://gabbopalma.github.io/?utm_source=github)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=540&lines=Bringing+geospatial+data+to+life;Maintaining+open-source+maps;Technical+speaker+%26+community+enthusiast" alt="typing" />
 
@@ -47,8 +45,8 @@ I build mobile apps that bring geospatial data to life.
 <a href="https://pub.dev/packages/maplibre_gl"><img src="https://img.shields.io/badge/pub.dev-maplibre__gl-2DD4BF?style=flat-square&logo=dart&logoColor=white" alt="pub.dev" /></a>
 <a href="https://sessionize.com/gabrielpalmisano"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=flat-square&logo=sessionize&logoColor=white" alt="Sessionize" /></a>
 <a href="https://instagram.com/gabrielpalmisano"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/gabrielpalmisano"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTAgMS4xNDZDMCAuNTEzLjUyNiAwIDEuMTc1IDBoMTMuNjVDMTUuNDc0IDAgMTYgLjUxMyAxNiAxLjE0NnYxMy43MDhjMCAuNjMzLS41MjYgMS4xNDYtMS4xNzUgMS4xNDZIMS4xNzVDLjUyNiAxNiAwIDE1LjQ4NyAwIDE0Ljg1NHptNC45NDMgMTIuMjQ4VjYuMTY5SDIuNTQydjcuMjI1em0tMS4yLTguMjEyYy44MzcgMCAxLjM1OC0uNTU0IDEuMzU4LTEuMjQ4LS4wMTUtLjcwOS0uNTItMS4yNDgtMS4zNDItMS4yNDhTMi40IDMuMjI2IDIuNCAzLjkzNGMwIC42OTQuNTIxIDEuMjQ4IDEuMzI3IDEuMjQ4em00LjkwOCA4LjIxMlY5LjM1OWMwLS4yMTYuMDE2LS40MzIuMDgtLjU4Ni4xNzMtLjQzMS41NjgtLjg3OCAxLjIzMi0uODc4Ljg2OSAwIDEuMjE2LjY2MiAxLjIxNiAxLjYzNHYzLjg2NWgyLjQwMVY5LjI1YzAtMi4yMi0xLjE4NC0zLjI1Mi0yLjc2NC0zLjI1Mi0xLjI3NCAwLTEuODQ1LjctMi4xNjUgMS4xOTN2LjAyNWgtLjAxNmwuMDE2LS4wMjVWNi4xNjloLTIuNGMuMDMuNjc4IDAgNy4yMjUgMCA3LjIyNXoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
 <a href="mailto:gabrielpalmisano63@gmail.com"><img src="https://img.shields.io/badge/Email-44515A?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/gabrielpalmisano"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/gabbpalma"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 
 <sub><i>Every time I see a map, I ask myself: “Which map is that?”</i></sub>
