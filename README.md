@@ -41,7 +41,7 @@ I build mobile apps that bring geospatial data to life.
 
 ### 🌐 Find me
 
-<a href="https://gabbopalma.github.io/?utm_source=github"><img src="https://img.shields.io/badge/Website-gabbopalma.github.io-285DAA?style=flat-square&logo=maplibre&logoColor=white" alt="Website" /></a>
+<a href="https://gabbopalma.github.io/?utm_source=github"><img src="https://img.shields.io/badge/Website-gabbopalma.github.io-2E2A6B?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjUgNi4yIDUyIDUyIj4KICA8Y2lyY2xlIGN4PSIzMSIgY3k9IjI0IiByPSIxMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjQuNSIvPgogIDxlbGxpcHNlIGN4PSIzMSIgY3k9IjI0IiByeD0iNS41IiByeT0iMTMiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyLjIiIG9wYWNpdHk9Ii43Ii8+CiAgPHBhdGggZD0iTTE4IDI0aDI2IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBvcGFjaXR5PSIuNyIvPgogIDxwYXRoIGQ9Ik00NCAxM3YyNmMwIDgtNS41IDEyLTEyIDEySDIwLjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI0LjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjIwLjQiIGN5PSI1MSIgcj0iMy42IiBmaWxsPSIjQkRCNkVFIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4xIi8+Cjwvc3ZnPgo=" alt="Website" /></a>
 <a href="https://pub.dev/packages/maplibre_gl"><img src="https://img.shields.io/badge/pub.dev-maplibre__gl-2DD4BF?style=flat-square&logo=dart&logoColor=white" alt="pub.dev" /></a>
 <a href="https://sessionize.com/gabrielpalmisano"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=flat-square&logo=sessionize&logoColor=white" alt="Sessionize" /></a>
 <a href="https://instagram.com/gabrielpalmisano"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
